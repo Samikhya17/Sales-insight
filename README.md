@@ -15,6 +15,8 @@ Key Insights:
 
 Tableau Public: https://public.tableau.com/app/profile/akshith.mogulluri/viz/SalesInsights-Tableau/RevenuAnalysis
 ![image](https://github.com/user-attachments/assets/0869621e-d785-4b69-92b2-dc00a26c9dae)
+![image](https://github.com/user-attachments/assets/76724d06-f6ad-4774-914b-040998118889)
+![image](https://github.com/user-attachments/assets/eb3ed6aa-9f23-4fc2-9935-98d9b98df7b0)
 
 
 
